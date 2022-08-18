@@ -5,4 +5,9 @@
 - 📫 how to reach me
 
 https://github.com/mahan100
+
 https://www.linkedin.com/in/mehdi-mohseni-mahani-5107b2153
+
+https://t.me/mehdi1989mm
+
+https://www.instagram.com/mehdi.mohseni.mahani.business
