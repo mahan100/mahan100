@@ -29,8 +29,6 @@ Alongside research I build and operate the infrastructure around models: PyTorch
 | **Forecasting benchmarks** | Multi-horizon regression on financial and sensor-like series, ablation-driven comparison |
 | **LLM infrastructure** | Serving throughput and KV-cache behaviour, retrieval pipelines, evaluation harnesses |
 
-Selected repositories are pinned below; each one is a self-contained study rather than a library.
-
 ---
 
 ## Toolbox
